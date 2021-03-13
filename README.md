@@ -1,5 +1,5 @@
-### Hi there 👋
-###computer programmer and full stack developer to be
+Hi there 👋
+computer programmer and full stack developer to be
 
 <!--
 **arun6665/arun6665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
