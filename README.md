@@ -1,6 +1,6 @@
 Hi there 👋
 computer programmer and full stack developer to be
-I am currently looking for internships.
+ and I am currently looking for internships.
 
 <!--
 **arun6665/arun6665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
